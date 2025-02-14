@@ -1,4 +1,4 @@
-# SQL-AND-POERBI-PROJECT
+# SQL-AND-POWER BI-PROJECT
 ## Project Overview
 This project involves data analysis and visualization using SQL and Power BI. The goal was to extract meaningful insights from a dataset and create interactive dashboards for better decision-making.
 
