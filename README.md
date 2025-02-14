@@ -23,3 +23,6 @@ Refresh the data to view updated visualizations.
 
 ## Conclusion
 This project successfully demonstrates the power of SQL for data manipulation and Power BI for business intelligence. It provides meaningful insights that help in strategic decision-making.
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/4c440cf2-21cd-4272-8c46-610baad5e237" />
+
+
