@@ -3,7 +3,7 @@
 This project involves data analysis and visualization using SQL and Power BI. The goal was to extract meaningful insights from a dataset and create interactive dashboards for better decision-making.
 
 ## Technologies Used
-SQL (Data extraction, transformation, and loading)
+SQL (Data extraction, transformation, and loading) 
 Power BI (Data visualization and dashboard creation)
 
 ## Features
